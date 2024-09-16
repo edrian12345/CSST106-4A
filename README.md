@@ -9,4 +9,4 @@ I've put all of my outputs and compiled each and every single one here.
 
 Click the link to view uploaded files directed in the release section:
 - MP1: https://github.com/edrian12345/CSST106-4A/releases/tag/MP1
-- MP2: [4A-FLORES-MP2.ipynb](https://github.com/edrian12345/CSST106-4A/blob/main/4A-FLORES-MP2.ipynb)
+- MP2: (https://github.com/edrian12345/CSST106-4A/blob/main/4A-FLORES-EXER1.ipynb)
