@@ -19,3 +19,5 @@ Click the link to view uploaded files directed in the release section:
 # Midterm Project:
 - Code: (https://github.com/edrian12345/CSST106-4A/tree/main/code)
 - Documentation: (https://github.com/edrian12345/CSST106-4A/tree/main/documentation)
+- Video: (https://drive.google.com/file/d/1thxSZq7M5LzBtfZox1UvNQz7RuHTntj_/view?usp=sharing)
+- Images/Dataset: (https://drive.google.com/file/d/1cx96S1wuS9uaSLm4-lEQDCaXXk024R70/view?usp=drive_link)
