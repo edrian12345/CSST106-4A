@@ -12,6 +12,7 @@ Click the link to view uploaded files directed in the release section:
 # Machine Problems: Lab
 - MP1: (https://github.com/edrian12345/CSST106-4A/releases/tag/MP1)
 - MP2: (https://github.com/edrian12345/CSST106-4A/blob/main/4A_Flores_MP2.ipynb)
+- MP3: (https://github.com/edrian12345/CSST106-4A/tree/main/MP3)
 
 # Exercises
 - EXER1: (https://github.com/edrian12345/CSST106-4A/blob/main/4A-FLORES-EXER1.ipynb)
