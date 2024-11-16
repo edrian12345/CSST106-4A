@@ -16,6 +16,7 @@ Click the link to view uploaded files directed in the release section:
 
 # Exercises
 - EXER1: (https://github.com/edrian12345/CSST106-4A/blob/main/4A-FLORES-EXER1.ipynb)
+- EXER3: (https://github.com/edrian12345/CSST106-4A/blob/main/EXER3-Flores.ipynb)
   
 # Midterm Project:
 - Code: (https://github.com/edrian12345/CSST106-4A/tree/main/code)
